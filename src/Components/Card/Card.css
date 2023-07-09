@@ -1,0 +1,23 @@
+.DishCard{
+    width: 1000px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 10px black;
+    height: 240px;
+    display: flex;
+    margin: 20px auto;
+}
+
+.FoodLeft{
+    width: 50%;
+}
+
+.DishImage{
+    height: 100%;
+    width: 100%;
+}
+
+.FoodRight{
+    width: 50%;
+    padding: 20px;
+    margin-top: 20px;
+}

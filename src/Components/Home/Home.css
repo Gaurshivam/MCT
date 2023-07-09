@@ -1,0 +1,23 @@
+.HomeH1{
+    position: absolute;
+    color: rgb(231, 231, 20);
+    left: 25%;
+    top: 15%;
+    font-size: 50px;
+}
+
+.HomeH1:hover{
+    color: rgb(159, 8, 133);  
+}
+
+.HomeP{
+    position: absolute;
+    color: rgb(239, 19, 19);
+    left: 35%;
+    font-size: 25px;
+    top: 30%;
+    font-weight: bold;
+}
+.HomeP:hover{
+    color: yellow;
+}

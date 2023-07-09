@@ -1,0 +1,26 @@
+.UserMain{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+   
+}
+
+.UserCard{
+    background-color: rgb(208, 238, 137);
+    width: 300px;
+    border-radius: 10px;
+    height: 320px;
+    box-shadow: 0px 0px 10px black;
+    margin: 20px;
+}
+
+.userbtn{
+    width: 270px;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+}

@@ -1,0 +1,40 @@
+.Login{
+  width: 400px;
+  height: 250px;
+  box-shadow: 0px 0px 10px black;
+  margin: 200px auto;
+  padding: 20px;
+  text-align: center;
+  background-color: rgb(192, 74, 192);
+  border-radius: 10px;
+  color: white;
+}
+
+.Login > h2{
+  color: black;
+}
+
+.Name > label{
+   margin: 10px;
+   font-weight: bold;
+   color: black;
+}
+
+.Password > label{
+  margin: 10px;
+  color: black;
+  font-weight: bold;
+  
+}
+
+
+.btn > button {
+  width: 200px;
+  margin-top: 10px;
+  background-color: rgb(49, 0, 128);
+  color: white;
+  padding: 10px;
+  font-weight: 800;
+  font-size: 20px;
+  border-radius: 10px;
+}
